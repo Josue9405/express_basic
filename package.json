@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Josue9405/express_basic#readme",
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.2"
   }
 }
